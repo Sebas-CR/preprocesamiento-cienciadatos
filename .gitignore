@@ -1,0 +1,9 @@
+# Archivos .pyc
+*.pyc
+
+# Directorios a ignorar
+.vscode/
+__pycache__/
+
+# Archivos de configuración local
+.env
