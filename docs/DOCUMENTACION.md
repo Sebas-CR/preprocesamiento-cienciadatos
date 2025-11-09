@@ -53,3 +53,8 @@ Integración con Pull Request y Fusión
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 ![alt text](image-5.png)
+
+Validación Automática con GitHub Actions
+Finalmente, el workflow de CI se ejecutó automáticamente tras la fusión, validando que el código integrado en main era funcional y pasaba todas las pruebas (instalación y ejecución del script).
+
+![alt text](image-6.png)
